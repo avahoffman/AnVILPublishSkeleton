@@ -8,7 +8,7 @@ Authors@R:
            email = "firstnamelastname@gmail.com")
 Description: 
     This is a brief description of the project. The GitHub repository can be 
-    found here: [repo-name](https://github.com/avahoffman/AnVILPublish-skeleton)
+    found here: [repo-name](https://github.com/avahoffman/AnVILPublishSkeleton)
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
